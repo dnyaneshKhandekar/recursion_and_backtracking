@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcb1b743-52f3-4768-adab-a250a72d6885" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion and Backtracking.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linear_Search/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="dcb1b743-52f3-4768-adab-a250a72d6885" name="Changes" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Linear_Search/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linear_Search/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SortedOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SortedOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy_recursion/DigitProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/DigitProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy_recursion/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/DigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy_recursion/Fact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/Fact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy_recursion/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy_recursion/ReverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/ReverseNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy_recursion/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +41,79 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.DigitProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedOrNot.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/khand/OneDrive/Desktop/Recursion and Backtracking/src/Main.java&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy_recursion.DigitProduct" />
+      <module name="Recursion and Backtracking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy_recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linear_Search.LinearSearch" />
+      <module name="Recursion and Backtracking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linear_Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy_recursion.ReverseNum" />
+      <module name="Recursion and Backtracking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy_recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.SortedOrNot" />
+      <module name="Recursion and Backtracking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.SortedOrNot" />
+        <item itemvalue="Application.ReverseNum" />
+        <item itemvalue="Application.DigitProduct" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +123,20 @@
       <option name="presentableId" value="Default" />
       <updated>1738945690685</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1739087622974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739087622974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

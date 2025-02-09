@@ -2,6 +2,8 @@ package Linear_Search;
 import java.util.ArrayList;
 
 public class LinearSearch {
+    static ArrayList<Integer> list = new ArrayList<>();
+
     public static void main(String[] args) {
         int[] arr = {2,67, 4, 6, 2, 12,67, 45, 67, 89};
         int target = 67;
@@ -35,7 +37,6 @@ public class LinearSearch {
     // checking multiple occurrences of target element
 
     // method 1 to return multiple index of occurrences of an target element
-    static ArrayList<Integer> list = new ArrayList<>();
     static void findAllIndex (int[] arr, int i, int target) {
         if (i == arr.length) {
             return;
