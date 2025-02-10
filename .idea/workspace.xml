@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dcb1b743-52f3-4768-adab-a250a72d6885" name="Changes" comment="second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Linear_Search/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linear_Search/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/SortedOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SortedOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy_recursion/DigitProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/DigitProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy_recursion/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/DigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy_recursion/Fact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/Fact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy_recursion/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy_recursion/ReverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/ReverseNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy_recursion/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy_recursion/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Pow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Pow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dnyaneshKhandekar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dnyaneshKhandekar/recursion_and_backtracking.git",
+    "accountId": "d4422166-2e4d-4f6f-bdba-fe0fdad453ff"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -52,7 +57,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/khand/OneDrive/Desktop/Recursion and Backtracking/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DigitProduct">
     <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy_recursion.DigitProduct" />
       <module name="Recursion and Backtracking" />
@@ -131,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739087622974</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1739102152437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739102152437</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
